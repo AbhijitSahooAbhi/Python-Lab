@@ -1,0 +1,10 @@
+# Write a program to perform addition,subtraction, multipliction, divisoin, modulus of two numbers.;
+x=int(input("Enter the Number:"))
+y=int(input("Enter the Number:"))
+print("Addition is:",x+y)
+print("Subtraction is:",x-y)
+print("Multiplication is:",x*y)
+print("Division is:",x/y)
+print("Modulus is:",x%y)
+print("Exponent is:",x**y)
+print("Floor Division is:",x//y)
